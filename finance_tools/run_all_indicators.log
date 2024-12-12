@@ -1,0 +1,153 @@
+2024-09-16 16:04:24,424 [ERROR] Erreur lors de l'exécution de moving_averages.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\moving_averages.py", line 4, in <module>
+    from .base_analysis import load_data, save_analysis  # Assurez-vous d'utiliser un import relatif
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: attempted relative import with no known parent package
+
+2024-09-16 16:04:24,471 [ERROR] Erreur lors de l'exécution de rsi.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\rsi.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:04:24,518 [ERROR] Erreur lors de l'exécution de bollinger_bands.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\bollinger_bands.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:04:24,565 [ERROR] Erreur lors de l'exécution de macd.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\macd.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:04:24,612 [ERROR] Erreur lors de l'exécution de stochastic.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\stochastic.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:04:24,674 [ERROR] Erreur lors de l'exécution de adx.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\adx.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:06:36,686 [ERROR] Erreur lors de l'exécution de moving_averages.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\moving_averages.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:06:36,726 [ERROR] Erreur lors de l'exécution de rsi.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\rsi.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:06:36,790 [ERROR] Erreur lors de l'exécution de bollinger_bands.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\bollinger_bands.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:06:36,843 [ERROR] Erreur lors de l'exécution de macd.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\macd.py", line 4, in <module>
+    from dataset_bigquery.technical_indicators.base_analysis import load_data, save_analysis
+ModuleNotFoundError: No module named 'dataset_bigquery'
+
+2024-09-16 16:06:36,900 [ERROR] Erreur lors de l'exécution de stochastic.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\stochastic.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:06:36,999 [ERROR] Erreur lors de l'exécution de adx.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\adx.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,612 [ERROR] Erreur lors de l'exécution de moving_averages.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\moving_averages.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,678 [ERROR] Erreur lors de l'exécution de rsi.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\rsi.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,742 [ERROR] Erreur lors de l'exécution de bollinger_bands.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\bollinger_bands.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,789 [ERROR] Erreur lors de l'exécution de macd.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\macd.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,852 [ERROR] Erreur lors de l'exécution de stochastic.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\stochastic.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:10:33,915 [ERROR] Erreur lors de l'exécution de adx.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\adx.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:57,882 [ERROR] Erreur lors de l'exécution de moving_averages.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\moving_averages.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:57,929 [ERROR] Erreur lors de l'exécution de rsi.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\rsi.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:57,992 [ERROR] Erreur lors de l'exécution de bollinger_bands.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\bollinger_bands.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:58,054 [ERROR] Erreur lors de l'exécution de macd.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\macd.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:58,117 [ERROR] Erreur lors de l'exécution de stochastic.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\stochastic.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2024-09-16 16:11:58,179 [ERROR] Erreur lors de l'exécution de adx.py: Traceback (most recent call last):
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\adx.py", line 4, in <module>
+    from base_analysis import load_data, save_analysis
+  File "C:\Users\matth\prediction-python\v1\dataset_bigquery\technical_indicators\base_analysis.py", line 5, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+

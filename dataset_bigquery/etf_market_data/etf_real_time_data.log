@@ -1,0 +1,545 @@
+2024-09-16 15:28:42,998 [INFO] DÈmarrage du programme de rÈcupÈration des donnÈes en temps rÈel
+2024-09-16 15:28:42,998 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:28:42,998 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:28:42,998 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:28:43,180 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(475.6000061035156), 'close_price': np.float64(475.3800048828125), 'high_price': np.float64(475.6099853515625), 'low_price': np.float64(475.25), 'volume': 616695}
+2024-09-16 15:28:43,196 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(562.02001953125), 'close_price': np.float64(561.9600219726562), 'high_price': np.float64(562.0499877929688), 'low_price': np.float64(561.7899780273438), 'volume': 920842}
+2024-09-16 15:28:43,196 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(42.82500076293945), 'close_price': np.float64(42.810001373291016), 'high_price': np.float64(42.83000183105469), 'low_price': np.float64(42.79999923706055), 'volume': 828741}
+2024-09-16 15:28:43,196 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:28:43,196 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:28:43,196 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:28:43,196 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:29:43,208 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:29:43,209 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:29:43,211 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:29:43,275 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(562.02001953125), 'close_price': np.float64(561.9600219726562), 'high_price': np.float64(562.0499877929688), 'low_price': np.float64(561.7899780273438), 'volume': 920842}
+2024-09-16 15:29:43,275 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(475.6000061035156), 'close_price': np.float64(475.3800048828125), 'high_price': np.float64(475.6099853515625), 'low_price': np.float64(475.25), 'volume': 616695}
+2024-09-16 15:29:43,275 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-13', 'datetime': '2024-09-13 15:59:00', 'open_price': np.float64(42.82500076293945), 'close_price': np.float64(42.810001373291016), 'high_price': np.float64(42.83000183105469), 'low_price': np.float64(42.79999923706055), 'volume': 828741}
+2024-09-16 15:29:43,290 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:29:43,291 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:29:43,291 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:29:43,292 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:30:43,294 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:30:43,294 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:30:43,294 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:30:43,349 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:01', 'open_price': np.float64(43.0), 'close_price': np.float64(43.0), 'high_price': np.float64(43.0), 'low_price': np.float64(43.0), 'volume': 0}
+2024-09-16 15:30:43,349 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:02', 'open_price': np.float64(561.719970703125), 'close_price': np.float64(561.719970703125), 'high_price': np.float64(561.719970703125), 'low_price': np.float64(561.719970703125), 'volume': 0}
+2024-09-16 15:30:43,349 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:30:43,363 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:02', 'open_price': np.float64(473.15008544921875), 'close_price': np.float64(473.15008544921875), 'high_price': np.float64(473.15008544921875), 'low_price': np.float64(473.15008544921875), 'volume': 0}
+2024-09-16 15:30:43,370 [ERROR] Erreur lors de la sauvegarde des donnÈes: Expecting value: line 1 column 1 (char 0)
+2024-09-16 15:30:43,370 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:30:43,370 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:30:59,976 [INFO] ArrÍt du programme par l'utilisateur
+2024-09-16 15:32:13,103 [INFO] DÈmarrage du programme de rÈcupÈration des donnÈes en temps rÈel
+2024-09-16 15:32:13,104 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:32:13,104 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:32:13,105 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:32:13,248 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:00', 'open_price': np.float64(43.0), 'close_price': np.float64(42.970001220703125), 'high_price': np.float64(43.005001068115234), 'low_price': np.float64(42.970001220703125), 'volume': 195729}
+2024-09-16 15:32:13,249 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:13,276 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:32:00', 'open_price': np.float64(472.1700134277344), 'close_price': np.float64(472.1700134277344), 'high_price': np.float64(472.1700134277344), 'low_price': np.float64(472.1700134277344), 'volume': 0}
+2024-09-16 15:32:13,289 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:13,593 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:00', 'open_price': np.float64(562.0), 'close_price': np.float64(561.8499755859375), 'high_price': np.float64(562.0800170898438), 'low_price': np.float64(561.8499755859375), 'volume': 899070}
+2024-09-16 15:32:13,599 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:13,600 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:32:26,734 [INFO] ArrÍt du programme par l'utilisateur
+2024-09-16 15:32:33,725 [INFO] DÈmarrage du programme de rÈcupÈration des donnÈes en temps rÈel
+2024-09-16 15:32:33,726 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:32:33,726 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:32:33,726 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:32:33,869 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:32:00', 'open_price': np.float64(472.2900085449219), 'close_price': np.float64(472.2900085449219), 'high_price': np.float64(472.2900085449219), 'low_price': np.float64(472.2900085449219), 'volume': 0}
+2024-09-16 15:32:33,869 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:32:00', 'open_price': np.float64(42.994998931884766), 'close_price': np.float64(42.994998931884766), 'high_price': np.float64(42.994998931884766), 'low_price': np.float64(42.994998931884766), 'volume': 0}
+2024-09-16 15:32:33,885 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:30:00', 'open_price': np.float64(562.0), 'close_price': np.float64(561.8900146484375), 'high_price': np.float64(562.0800170898438), 'low_price': np.float64(561.8400268554688), 'volume': 923853}
+2024-09-16 15:32:33,885 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:33,891 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:33,891 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:32:33,891 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:33:33,894 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:33:33,895 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:33:33,897 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:33:33,949 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:32:00', 'open_price': np.float64(42.970001220703125), 'close_price': np.float64(42.970001220703125), 'high_price': np.float64(42.994998931884766), 'low_price': np.float64(42.959999084472656), 'volume': 43471}
+2024-09-16 15:33:33,977 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:32:00', 'open_price': np.float64(472.57000732421875), 'close_price': np.float64(472.5299987792969), 'high_price': np.float64(472.57000732421875), 'low_price': np.float64(471.8999938964844), 'volume': 136310}
+2024-09-16 15:33:33,982 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:33:00', 'open_price': np.float64(561.5800170898438), 'close_price': np.float64(561.5800170898438), 'high_price': np.float64(561.5800170898438), 'low_price': np.float64(561.5800170898438), 'volume': 0}
+2024-09-16 15:33:33,982 [INFO] DonnÈes dÈj‡ prÈsentes pour EEM ‡ 2024-09-16 09:32:00. IgnorÈes.
+2024-09-16 15:33:33,983 [INFO] DonnÈes dÈj‡ prÈsentes pour QQQ ‡ 2024-09-16 09:32:00. IgnorÈes.
+2024-09-16 15:33:33,984 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:33:33,984 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:34:33,987 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:34:33,987 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:34:33,987 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:34:34,087 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:34:00', 'open_price': np.float64(471.2200012207031), 'close_price': np.float64(471.2200012207031), 'high_price': np.float64(471.2200012207031), 'low_price': np.float64(471.2200012207031), 'volume': 0}
+2024-09-16 15:34:34,114 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:34:00', 'open_price': np.float64(561.3200073242188), 'close_price': np.float64(561.3200073242188), 'high_price': np.float64(561.3200073242188), 'low_price': np.float64(561.3200073242188), 'volume': 0}
+2024-09-16 15:34:34,115 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:34:34,134 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:34:00', 'open_price': np.float64(42.915000915527344), 'close_price': np.float64(42.915000915527344), 'high_price': np.float64(42.915000915527344), 'low_price': np.float64(42.915000915527344), 'volume': 0}
+2024-09-16 15:34:34,134 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:34:34,146 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:34:34,147 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:35:34,149 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:35:34,149 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:35:34,149 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:35:34,197 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:35:00', 'open_price': np.float64(470.7347106933594), 'close_price': np.float64(470.7347106933594), 'high_price': np.float64(470.7347106933594), 'low_price': np.float64(470.7347106933594), 'volume': 0}
+2024-09-16 15:35:34,213 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:35:00', 'open_price': np.float64(561.02001953125), 'close_price': np.float64(561.02001953125), 'high_price': np.float64(561.02001953125), 'low_price': np.float64(561.02001953125), 'volume': 0}
+2024-09-16 15:35:34,213 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:35:00', 'open_price': np.float64(42.880001068115234), 'close_price': np.float64(42.880001068115234), 'high_price': np.float64(42.880001068115234), 'low_price': np.float64(42.880001068115234), 'volume': 0}
+2024-09-16 15:35:34,213 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:35:34,230 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:35:34,231 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:35:34,231 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:36:34,232 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:36:34,232 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:36:34,237 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:36:34,288 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:36:00', 'open_price': np.float64(560.9099731445312), 'close_price': np.float64(560.9099731445312), 'high_price': np.float64(560.9099731445312), 'low_price': np.float64(560.9099731445312), 'volume': 0}
+2024-09-16 15:36:34,288 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:36:00', 'open_price': np.float64(42.8849983215332), 'close_price': np.float64(42.8849983215332), 'high_price': np.float64(42.8849983215332), 'low_price': np.float64(42.8849983215332), 'volume': 0}
+2024-09-16 15:36:34,306 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:36:34,311 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:36:00', 'open_price': np.float64(470.82000732421875), 'close_price': np.float64(470.82000732421875), 'high_price': np.float64(470.82000732421875), 'low_price': np.float64(470.82000732421875), 'volume': 0}
+2024-09-16 15:36:34,313 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:36:34,313 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:36:34,314 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:37:34,315 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:37:34,315 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:37:34,320 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:37:34,366 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:37:00', 'open_price': np.float64(560.8800048828125), 'close_price': np.float64(560.8800048828125), 'high_price': np.float64(560.8800048828125), 'low_price': np.float64(560.8800048828125), 'volume': 0}
+2024-09-16 15:37:34,381 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:37:00', 'open_price': np.float64(42.88999938964844), 'close_price': np.float64(42.88999938964844), 'high_price': np.float64(42.88999938964844), 'low_price': np.float64(42.88999938964844), 'volume': 0}
+2024-09-16 15:37:34,381 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:37:00', 'open_price': np.float64(471.1700134277344), 'close_price': np.float64(471.1700134277344), 'high_price': np.float64(471.1700134277344), 'low_price': np.float64(471.1700134277344), 'volume': 0}
+2024-09-16 15:37:34,381 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:37:34,381 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:37:34,393 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:37:34,393 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:38:34,394 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:38:34,394 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:38:34,394 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:38:34,442 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:38:00', 'open_price': np.float64(42.904998779296875), 'close_price': np.float64(42.904998779296875), 'high_price': np.float64(42.904998779296875), 'low_price': np.float64(42.904998779296875), 'volume': 0}
+2024-09-16 15:38:34,452 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:38:00', 'open_price': np.float64(561.1199951171875), 'close_price': np.float64(561.1199951171875), 'high_price': np.float64(561.1199951171875), 'low_price': np.float64(561.1199951171875), 'volume': 0}
+2024-09-16 15:38:34,462 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:38:00', 'open_price': np.float64(471.8399963378906), 'close_price': np.float64(471.8399963378906), 'high_price': np.float64(471.8399963378906), 'low_price': np.float64(471.8399963378906), 'volume': 0}
+2024-09-16 15:38:34,463 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:38:34,463 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:38:34,476 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:38:34,476 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:39:34,484 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:39:34,485 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:39:34,486 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:39:34,540 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:39:00', 'open_price': np.float64(561.0599975585938), 'close_price': np.float64(561.0599975585938), 'high_price': np.float64(561.0599975585938), 'low_price': np.float64(561.0599975585938), 'volume': 0}
+2024-09-16 15:39:34,552 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:39:00', 'open_price': np.float64(471.55999755859375), 'close_price': np.float64(471.55999755859375), 'high_price': np.float64(471.55999755859375), 'low_price': np.float64(471.55999755859375), 'volume': 0}
+2024-09-16 15:39:34,561 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:39:00', 'open_price': np.float64(42.90999984741211), 'close_price': np.float64(42.90999984741211), 'high_price': np.float64(42.90999984741211), 'low_price': np.float64(42.90999984741211), 'volume': 0}
+2024-09-16 15:39:34,562 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:39:34,563 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:39:34,564 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:39:34,564 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:40:34,565 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:40:34,565 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:40:34,565 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:40:34,640 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:40:00', 'open_price': np.float64(560.9299926757812), 'close_price': np.float64(560.9299926757812), 'high_price': np.float64(560.9299926757812), 'low_price': np.float64(560.9299926757812), 'volume': 0}
+2024-09-16 15:40:34,640 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:40:00', 'open_price': np.float64(42.900001525878906), 'close_price': np.float64(42.900001525878906), 'high_price': np.float64(42.900001525878906), 'low_price': np.float64(42.900001525878906), 'volume': 0}
+2024-09-16 15:40:34,656 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:40:00', 'open_price': np.float64(471.4800109863281), 'close_price': np.float64(471.4800109863281), 'high_price': np.float64(471.4800109863281), 'low_price': np.float64(471.4800109863281), 'volume': 0}
+2024-09-16 15:40:34,661 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:40:34,661 [INFO] DonnÈes sauvegardÈes dans le fichier real_time_data_20240916.json
+2024-09-16 15:40:34,661 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:40:34,662 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:41:34,663 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:41:34,663 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:41:34,663 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:41:34,726 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:41:00', 'open_price': np.float64(42.900001525878906), 'close_price': np.float64(42.900001525878906), 'high_price': np.float64(42.900001525878906), 'low_price': np.float64(42.900001525878906), 'volume': 0}
+2024-09-16 15:41:34,728 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:41:34,747 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:41:00', 'open_price': np.float64(471.2699890136719), 'close_price': np.float64(471.2699890136719), 'high_price': np.float64(471.2699890136719), 'low_price': np.float64(471.2699890136719), 'volume': 0}
+2024-09-16 15:41:34,748 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:41:34,936 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:41:00', 'open_price': np.float64(560.8400268554688), 'close_price': np.float64(560.8400268554688), 'high_price': np.float64(560.8400268554688), 'low_price': np.float64(560.8400268554688), 'volume': 0}
+2024-09-16 15:41:34,936 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:41:34,936 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:42:34,941 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:42:34,941 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:42:34,944 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:42:34,993 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:42:00', 'open_price': np.float64(560.97998046875), 'close_price': np.float64(560.97998046875), 'high_price': np.float64(560.97998046875), 'low_price': np.float64(560.97998046875), 'volume': 0}
+2024-09-16 15:42:35,008 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:42:00', 'open_price': np.float64(42.900001525878906), 'close_price': np.float64(42.900001525878906), 'high_price': np.float64(42.900001525878906), 'low_price': np.float64(42.900001525878906), 'volume': 0}
+2024-09-16 15:42:35,009 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:42:35,015 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:42:00', 'open_price': np.float64(471.6499938964844), 'close_price': np.float64(471.6499938964844), 'high_price': np.float64(471.6499938964844), 'low_price': np.float64(471.6499938964844), 'volume': 0}
+2024-09-16 15:42:35,015 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:42:35,016 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:42:35,016 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:43:35,017 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:43:35,018 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:43:35,019 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:43:35,082 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:43:00', 'open_price': np.float64(42.89500045776367), 'close_price': np.float64(42.89500045776367), 'high_price': np.float64(42.89500045776367), 'low_price': np.float64(42.89500045776367), 'volume': 0}
+2024-09-16 15:43:35,101 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:43:00', 'open_price': np.float64(471.885986328125), 'close_price': np.float64(471.885986328125), 'high_price': np.float64(471.885986328125), 'low_price': np.float64(471.885986328125), 'volume': 0}
+2024-09-16 15:43:35,104 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:43:00', 'open_price': np.float64(561.1400146484375), 'close_price': np.float64(561.1400146484375), 'high_price': np.float64(561.1400146484375), 'low_price': np.float64(561.1400146484375), 'volume': 0}
+2024-09-16 15:43:35,104 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:43:35,104 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:43:35,104 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:43:35,104 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:44:35,109 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:44:35,109 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:44:35,109 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:44:35,178 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:44:00', 'open_price': np.float64(42.88999938964844), 'close_price': np.float64(42.88999938964844), 'high_price': np.float64(42.88999938964844), 'low_price': np.float64(42.88999938964844), 'volume': 0}
+2024-09-16 15:44:35,182 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:44:00', 'open_price': np.float64(561.1500244140625), 'close_price': np.float64(561.1500244140625), 'high_price': np.float64(561.1500244140625), 'low_price': np.float64(561.1500244140625), 'volume': 0}
+2024-09-16 15:44:35,182 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:44:35,182 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:44:35,233 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:44:00', 'open_price': np.float64(472.07000732421875), 'close_price': np.float64(472.07000732421875), 'high_price': np.float64(472.07000732421875), 'low_price': np.float64(472.07000732421875), 'volume': 0}
+2024-09-16 15:44:35,234 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:44:35,235 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:45:35,236 [INFO] DÈbut de la rÈcupÈration des donnÈes pour SPY
+2024-09-16 15:45:35,236 [INFO] DÈbut de la rÈcupÈration des donnÈes pour QQQ
+2024-09-16 15:45:35,236 [INFO] DÈbut de la rÈcupÈration des donnÈes pour EEM
+2024-09-16 15:45:35,299 [INFO] DonnÈes rÈcupÈrÈes pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 09:45:00', 'open_price': np.float64(472.139892578125), 'close_price': np.float64(472.139892578125), 'high_price': np.float64(472.139892578125), 'low_price': np.float64(472.139892578125), 'volume': 0}
+2024-09-16 15:45:35,301 [INFO] DonnÈes rÈcupÈrÈes pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 09:45:00', 'open_price': np.float64(42.900001525878906), 'close_price': np.float64(42.900001525878906), 'high_price': np.float64(42.900001525878906), 'low_price': np.float64(42.900001525878906), 'volume': 0}
+2024-09-16 15:45:35,301 [INFO] DonnÈes rÈcupÈrÈes pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 09:45:00', 'open_price': np.float64(561.1599731445312), 'close_price': np.float64(561.1599731445312), 'high_price': np.float64(561.1599731445312), 'low_price': np.float64(561.1599731445312), 'volume': 0}
+2024-09-16 15:45:35,301 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:45:35,301 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:45:35,301 [ERROR] Erreur lors de la sauvegarde des donnÈes: Extra data: line 192 column 2 (char 5623)
+2024-09-16 15:45:35,315 [INFO] Attente de 60 secondes avant la prochaine rÈcupÈration
+2024-09-16 15:45:42,148 [INFO] ArrÍt du programme par l'utilisateur
+2024-09-16 17:03:07,617 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-09-16 17:03:07,620 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:03:07,620 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:03:07,620 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:03:07,871 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:03:00', 'open_price': np.float64(560.4400024414062), 'close_price': np.float64(560.4400024414062), 'high_price': np.float64(560.4400024414062), 'low_price': np.float64(560.4400024414062), 'volume': 0}
+2024-09-16 17:03:07,883 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:02:00', 'open_price': np.float64(42.81999969482422), 'close_price': np.float64(42.81999969482422), 'high_price': np.float64(42.81999969482422), 'low_price': np.float64(42.81999969482422), 'volume': 0}
+2024-09-16 17:03:07,884 [ERROR] Erreur lors de la sauvegarde des donn√©es: Extra data: line 192 column 2 (char 5623)
+2024-09-16 17:03:07,885 [ERROR] Erreur lors de la sauvegarde des donn√©es: Extra data: line 192 column 2 (char 5623)
+2024-09-16 17:03:08,028 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:03:00', 'open_price': np.float64(470.4949951171875), 'close_price': np.float64(470.4949951171875), 'high_price': np.float64(470.4949951171875), 'low_price': np.float64(470.4949951171875), 'volume': 0}
+2024-09-16 17:03:08,031 [ERROR] Erreur lors de la sauvegarde des donn√©es: Extra data: line 192 column 2 (char 5623)
+2024-09-16 17:03:08,039 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:03:12,318 [INFO] Arr√™t du programme par l'utilisateur
+2024-09-16 17:06:47,094 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-09-16 17:06:47,095 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:06:47,095 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:06:47,095 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:06:47,375 [WARNING] Volume nul pour SPY √† 2024-09-16 11:06:00-04:00. Donn√©es ignor√©es.
+2024-09-16 17:06:47,377 [WARNING] Volume nul pour EEM √† 2024-09-16 11:05:00-04:00. Donn√©es ignor√©es.
+2024-09-16 17:06:47,378 [WARNING] Volume nul pour QQQ √† 2024-09-16 11:06:00-04:00. Donn√©es ignor√©es.
+2024-09-16 17:06:47,379 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:07:19,154 [INFO] Arr√™t du programme par l'utilisateur
+2024-09-16 17:09:36,035 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-09-16 17:09:36,037 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:09:36,037 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:09:36,037 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:09:36,174 [ERROR] EEM: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:09:36,175 [WARNING] Aucune donn√©e en temps r√©el disponible pour EEM
+2024-09-16 17:09:36,177 [ERROR] SPY: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:09:36,179 [ERROR] QQQ: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:09:36,179 [WARNING] Aucune donn√©e en temps r√©el disponible pour SPY
+2024-09-16 17:09:36,180 [WARNING] Aucune donn√©e en temps r√©el disponible pour QQQ
+2024-09-16 17:09:36,181 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:10:36,243 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:10:36,244 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:10:36,245 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:10:36,303 [ERROR] SPY: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:10:36,305 [WARNING] Aucune donn√©e en temps r√©el disponible pour SPY
+2024-09-16 17:10:36,307 [ERROR] EEM: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:10:36,309 [ERROR] QQQ: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:10:36,310 [WARNING] Aucune donn√©e en temps r√©el disponible pour EEM
+2024-09-16 17:10:36,311 [WARNING] Aucune donn√©e en temps r√©el disponible pour QQQ
+2024-09-16 17:10:36,312 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:11:36,373 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:11:36,374 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:11:36,374 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:11:36,425 [ERROR] QQQ: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:11:36,426 [WARNING] Aucune donn√©e en temps r√©el disponible pour QQQ
+2024-09-16 17:11:36,429 [ERROR] EEM: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:11:36,430 [WARNING] Aucune donn√©e en temps r√©el disponible pour EEM
+2024-09-16 17:11:36,441 [ERROR] SPY: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:11:36,442 [WARNING] Aucune donn√©e en temps r√©el disponible pour SPY
+2024-09-16 17:11:36,443 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:11:39,659 [INFO] Arr√™t du programme par l'utilisateur
+2024-09-16 17:13:13,576 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-09-16 17:13:13,576 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:13:13,576 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:13:13,576 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:13:13,709 [ERROR] QQQ: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:13:13,710 [WARNING] Aucune donn√©e en temps r√©el disponible pour QQQ
+2024-09-16 17:13:13,713 [ERROR] SPY: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:13:13,714 [WARNING] Aucune donn√©e en temps r√©el disponible pour SPY
+2024-09-16 17:13:14,016 [ERROR] EEM: Period '2d' is invalid, must be one of ['1d', '5d', '1mo', '3mo', '6mo', '1y', '2y', '5y', '10y', 'ytd', 'max']
+2024-09-16 17:13:14,018 [WARNING] Aucune donn√©e en temps r√©el disponible pour EEM
+2024-09-16 17:13:14,019 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:13:36,550 [INFO] Arr√™t du programme par l'utilisateur
+2024-09-16 17:15:24,742 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-09-16 17:15:24,744 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:15:24,745 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:15:24,745 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:15:25,784 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:14:00', 'open_price': 561.1099853515625, 'close_price': 561.1099853515625, 'high_price': 561.1099853515625, 'low_price': 561.1099853515625, 'volume': 0}
+2024-09-16 17:15:25,784 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:14:00', 'open_price': 42.8650016784668, 'close_price': 42.8650016784668, 'high_price': 42.8650016784668, 'low_price': 42.8650016784668, 'volume': 0}
+2024-09-16 17:15:25,790 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:14:00', 'open_price': 471.6600036621094, 'close_price': 471.6600036621094, 'high_price': 471.6600036621094, 'low_price': 471.6600036621094, 'volume': 0}
+2024-09-16 17:15:25,806 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:15:25,834 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:15:25,850 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:15:25,859 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:16:25,921 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:16:25,922 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:16:25,923 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:16:26,005 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:16:00', 'open_price': 42.86000061035156, 'close_price': 42.86000061035156, 'high_price': 42.86000061035156, 'low_price': 42.86000061035156, 'volume': 0}
+2024-09-16 17:16:26,006 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:16:00', 'open_price': 561.0750122070312, 'close_price': 561.0750122070312, 'high_price': 561.0750122070312, 'low_price': 561.0750122070312, 'volume': 0}
+2024-09-16 17:16:26,006 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:16:00', 'open_price': 471.70001220703125, 'close_price': 471.70001220703125, 'high_price': 471.70001220703125, 'low_price': 471.70001220703125, 'volume': 0}
+2024-09-16 17:16:26,011 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:16:26,031 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:16:26,046 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:16:26,047 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:17:26,109 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:17:26,111 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:17:26,112 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:17:26,182 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:17:00', 'open_price': 42.86000061035156, 'close_price': 42.86000061035156, 'high_price': 42.86000061035156, 'low_price': 42.86000061035156, 'volume': 0}
+2024-09-16 17:17:26,195 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:17:00', 'open_price': 471.7699890136719, 'close_price': 471.7699890136719, 'high_price': 471.7699890136719, 'low_price': 471.7699890136719, 'volume': 0}
+2024-09-16 17:17:26,198 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:17:00', 'open_price': 561.1849975585938, 'close_price': 561.1849975585938, 'high_price': 561.1849975585938, 'low_price': 561.1849975585938, 'volume': 0}
+2024-09-16 17:17:26,211 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:17:26,234 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:17:26,258 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:17:26,259 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:18:26,321 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:18:26,322 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:18:26,322 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:18:26,399 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:18:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:18:26,420 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:18:00', 'open_price': 472.0400085449219, 'close_price': 472.0400085449219, 'high_price': 472.0400085449219, 'low_price': 472.0400085449219, 'volume': 0}
+2024-09-16 17:18:26,433 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:18:00', 'open_price': 561.219970703125, 'close_price': 561.219970703125, 'high_price': 561.219970703125, 'low_price': 561.219970703125, 'volume': 0}
+2024-09-16 17:18:26,515 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:18:26,603 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:18:26,634 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:18:26,634 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:19:26,697 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:19:26,698 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:19:26,704 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:19:26,781 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:19:00', 'open_price': 42.86009979248047, 'close_price': 42.86009979248047, 'high_price': 42.86009979248047, 'low_price': 42.86009979248047, 'volume': 0}
+2024-09-16 17:19:26,782 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:19:00', 'open_price': 471.9800109863281, 'close_price': 471.9800109863281, 'high_price': 471.9800109863281, 'low_price': 471.9800109863281, 'volume': 0}
+2024-09-16 17:19:26,784 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:19:00', 'open_price': 561.1300048828125, 'close_price': 561.1300048828125, 'high_price': 561.1300048828125, 'low_price': 561.1300048828125, 'volume': 0}
+2024-09-16 17:19:26,811 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:19:26,820 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:19:26,852 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:19:26,853 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:20:26,915 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:20:26,916 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:20:26,916 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:20:26,994 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:20:00', 'open_price': 471.9700012207031, 'close_price': 471.9700012207031, 'high_price': 471.9700012207031, 'low_price': 471.9700012207031, 'volume': 0}
+2024-09-16 17:20:26,995 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:20:00', 'open_price': 561.1400146484375, 'close_price': 561.1400146484375, 'high_price': 561.1400146484375, 'low_price': 561.1400146484375, 'volume': 0}
+2024-09-16 17:20:27,003 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:19:00', 'open_price': 42.86989974975586, 'close_price': 42.86989974975586, 'high_price': 42.86989974975586, 'low_price': 42.86989974975586, 'volume': 0}
+2024-09-16 17:20:27,015 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:20:27,042 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:20:27,068 [INFO] Donn√©es d√©j√† pr√©sentes pour EEM √† 2024-09-16 11:19:00. Ignor√©es.
+2024-09-16 17:20:27,070 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:21:27,131 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:21:27,131 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:21:27,131 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:21:27,205 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:21:00', 'open_price': 561.0698852539062, 'close_price': 561.0698852539062, 'high_price': 561.0698852539062, 'low_price': 561.0698852539062, 'volume': 0}
+2024-09-16 17:21:27,206 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:21:00', 'open_price': 471.95001220703125, 'close_price': 471.95001220703125, 'high_price': 471.95001220703125, 'low_price': 471.95001220703125, 'volume': 0}
+2024-09-16 17:21:27,212 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:21:00', 'open_price': 42.85960006713867, 'close_price': 42.85960006713867, 'high_price': 42.85960006713867, 'low_price': 42.85960006713867, 'volume': 0}
+2024-09-16 17:21:27,219 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:21:27,242 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:21:27,267 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:21:27,268 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:22:27,330 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:22:27,330 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:22:27,330 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:22:27,422 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:22:00', 'open_price': 42.8650016784668, 'close_price': 42.8650016784668, 'high_price': 42.8650016784668, 'low_price': 42.8650016784668, 'volume': 0}
+2024-09-16 17:22:27,425 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:22:00', 'open_price': 471.989990234375, 'close_price': 471.989990234375, 'high_price': 471.989990234375, 'low_price': 471.989990234375, 'volume': 0}
+2024-09-16 17:22:27,428 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:22:00', 'open_price': 561.0800170898438, 'close_price': 561.0800170898438, 'high_price': 561.0800170898438, 'low_price': 561.0800170898438, 'volume': 0}
+2024-09-16 17:22:27,457 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:22:27,491 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:22:27,521 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:22:27,523 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:23:27,584 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:23:27,584 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:23:27,584 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:23:27,646 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:23:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:23:27,660 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:23:00', 'open_price': 561.1099853515625, 'close_price': 561.1099853515625, 'high_price': 561.1099853515625, 'low_price': 561.1099853515625, 'volume': 0}
+2024-09-16 17:23:27,661 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:23:00', 'open_price': 472.0950012207031, 'close_price': 472.0950012207031, 'high_price': 472.0950012207031, 'low_price': 472.0950012207031, 'volume': 0}
+2024-09-16 17:23:27,665 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:23:27,689 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:23:27,719 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:23:27,720 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:24:27,768 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:24:27,769 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:24:27,769 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:24:27,834 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:24:00', 'open_price': 561.260009765625, 'close_price': 561.260009765625, 'high_price': 561.260009765625, 'low_price': 561.260009765625, 'volume': 0}
+2024-09-16 17:24:27,838 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:24:00', 'open_price': 472.2099914550781, 'close_price': 472.2099914550781, 'high_price': 472.2099914550781, 'low_price': 472.2099914550781, 'volume': 0}
+2024-09-16 17:24:27,842 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:24:27,869 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:24:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:24:27,876 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:24:27,911 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:24:27,911 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:25:27,973 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:25:27,974 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:25:27,975 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:25:28,036 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:25:00', 'open_price': 561.2899780273438, 'close_price': 561.2899780273438, 'high_price': 561.2899780273438, 'low_price': 561.2899780273438, 'volume': 0}
+2024-09-16 17:25:28,049 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:25:00', 'open_price': 472.3299865722656, 'close_price': 472.3299865722656, 'high_price': 472.3299865722656, 'low_price': 472.3299865722656, 'volume': 0}
+2024-09-16 17:25:28,057 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:25:28,083 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:25:00', 'open_price': 42.880001068115234, 'close_price': 42.880001068115234, 'high_price': 42.880001068115234, 'low_price': 42.880001068115234, 'volume': 0}
+2024-09-16 17:25:28,092 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:25:28,144 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:25:28,146 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:26:28,208 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:26:28,210 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:26:28,212 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:26:28,284 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:26:00', 'open_price': 472.2110900878906, 'close_price': 472.2110900878906, 'high_price': 472.2110900878906, 'low_price': 472.2110900878906, 'volume': 0}
+2024-09-16 17:26:28,296 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:26:00', 'open_price': 561.25, 'close_price': 561.25, 'high_price': 561.25, 'low_price': 561.25, 'volume': 0}
+2024-09-16 17:26:28,298 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:26:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:26:28,301 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:26:28,337 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:26:28,373 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:26:28,374 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:27:28,435 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:27:28,435 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:27:28,435 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:27:28,562 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:27:00', 'open_price': 42.86000061035156, 'close_price': 42.86000061035156, 'high_price': 42.86000061035156, 'low_price': 42.86000061035156, 'volume': 0}
+2024-09-16 17:27:28,563 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:27:00', 'open_price': 560.97998046875, 'close_price': 560.97998046875, 'high_price': 560.97998046875, 'low_price': 560.97998046875, 'volume': 0}
+2024-09-16 17:27:28,564 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:27:00', 'open_price': 472.0329895019531, 'close_price': 472.0329895019531, 'high_price': 472.0329895019531, 'low_price': 472.0329895019531, 'volume': 0}
+2024-09-16 17:27:28,569 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:27:28,598 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:27:28,625 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:27:28,625 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:28:28,687 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:28:28,688 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:28:28,690 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:28:28,745 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:28:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:28:28,755 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:28:00', 'open_price': 560.989990234375, 'close_price': 560.989990234375, 'high_price': 560.989990234375, 'low_price': 560.989990234375, 'volume': 0}
+2024-09-16 17:28:28,761 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:28:28,790 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:28:29,340 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:28:00', 'open_price': 472.1000061035156, 'close_price': 472.1000061035156, 'high_price': 472.1000061035156, 'low_price': 472.1000061035156, 'volume': 0}
+2024-09-16 17:28:29,350 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:28:29,352 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:29:29,414 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:29:29,416 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:29:29,416 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:29:29,512 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:29:00', 'open_price': 472.04998779296875, 'close_price': 472.04998779296875, 'high_price': 472.04998779296875, 'low_price': 472.04998779296875, 'volume': 0}
+2024-09-16 17:29:29,529 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:29:00', 'open_price': 560.9199829101562, 'close_price': 560.9199829101562, 'high_price': 560.9199829101562, 'low_price': 560.9199829101562, 'volume': 0}
+2024-09-16 17:29:29,538 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:29:00', 'open_price': 42.869998931884766, 'close_price': 42.869998931884766, 'high_price': 42.869998931884766, 'low_price': 42.869998931884766, 'volume': 0}
+2024-09-16 17:29:29,543 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:29:29,572 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:29:29,606 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:29:29,606 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:30:29,668 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:30:29,670 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:30:29,673 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:30:29,724 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:30:00', 'open_price': 560.9801025390625, 'close_price': 560.9801025390625, 'high_price': 560.9801025390625, 'low_price': 560.9801025390625, 'volume': 0}
+2024-09-16 17:30:29,736 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:30:00', 'open_price': 42.8650016784668, 'close_price': 42.8650016784668, 'high_price': 42.8650016784668, 'low_price': 42.8650016784668, 'volume': 0}
+2024-09-16 17:30:29,750 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:30:00', 'open_price': 472.0899963378906, 'close_price': 472.0899963378906, 'high_price': 472.0899963378906, 'low_price': 472.0899963378906, 'volume': 0}
+2024-09-16 17:30:29,756 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:30:29,785 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:30:29,820 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:30:29,821 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:31:29,874 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-09-16 17:31:29,874 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-09-16 17:31:29,874 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-09-16 17:31:29,934 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-09-16', 'datetime': '2024-09-16 11:31:00', 'open_price': 472.1199951171875, 'close_price': 472.1199951171875, 'high_price': 472.1199951171875, 'low_price': 472.1199951171875, 'volume': 0}
+2024-09-16 17:31:29,941 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:31:29,951 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-09-16', 'datetime': '2024-09-16 11:31:00', 'open_price': 42.880001068115234, 'close_price': 42.880001068115234, 'high_price': 42.880001068115234, 'low_price': 42.880001068115234, 'volume': 0}
+2024-09-16 17:31:29,969 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:31:30,440 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-09-16', 'datetime': '2024-09-16 11:31:00', 'open_price': 561.0499877929688, 'close_price': 561.0499877929688, 'high_price': 561.0499877929688, 'low_price': 561.0499877929688, 'volume': 0}
+2024-09-16 17:31:30,445 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20240916.json
+2024-09-16 17:31:30,446 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-09-16 17:32:23,959 [INFO] Arr√™t du programme par l'utilisateur
+2024-10-08 18:21:43,303 [INFO] D√©marrage du programme de r√©cup√©ration des donn√©es en temps r√©el
+2024-10-08 18:21:43,305 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:21:43,305 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:21:43,306 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:21:44,534 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:21:00', 'open_price': 487.635009765625, 'close_price': 487.635009765625, 'high_price': 487.635009765625, 'low_price': 487.635009765625, 'volume': 0}
+2024-10-08 18:21:44,536 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:21:00', 'open_price': 571.8200073242188, 'close_price': 571.8200073242188, 'high_price': 571.8200073242188, 'low_price': 571.8200073242188, 'volume': 0}
+2024-10-08 18:21:44,536 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:21:00', 'open_price': 46.189998626708984, 'close_price': 46.189998626708984, 'high_price': 46.189998626708984, 'low_price': 46.189998626708984, 'volume': 0}
+2024-10-08 18:21:44,539 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:21:44,559 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:21:44,576 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:21:44,577 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:22:44,643 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:22:44,643 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:22:44,643 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:22:44,997 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:22:00', 'open_price': 487.59991455078125, 'close_price': 487.59991455078125, 'high_price': 487.59991455078125, 'low_price': 487.59991455078125, 'volume': 0}
+2024-10-08 18:22:45,007 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:22:00', 'open_price': 571.77001953125, 'close_price': 571.77001953125, 'high_price': 571.77001953125, 'low_price': 571.77001953125, 'volume': 0}
+2024-10-08 18:22:45,012 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:22:00', 'open_price': 46.154998779296875, 'close_price': 46.154998779296875, 'high_price': 46.154998779296875, 'low_price': 46.154998779296875, 'volume': 0}
+2024-10-08 18:22:45,014 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:22:45,033 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:22:45,054 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:22:45,055 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:23:45,117 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:23:45,118 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:23:45,120 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:23:45,475 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:23:00', 'open_price': 487.614990234375, 'close_price': 487.614990234375, 'high_price': 487.614990234375, 'low_price': 487.614990234375, 'volume': 0}
+2024-10-08 18:23:45,478 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:23:00', 'open_price': 571.780029296875, 'close_price': 571.780029296875, 'high_price': 571.780029296875, 'low_price': 571.780029296875, 'volume': 0}
+2024-10-08 18:23:45,497 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:23:00', 'open_price': 46.1349983215332, 'close_price': 46.1349983215332, 'high_price': 46.1349983215332, 'low_price': 46.1349983215332, 'volume': 0}
+2024-10-08 18:23:45,508 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:23:45,539 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:23:45,555 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:23:45,556 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:24:45,618 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:24:45,618 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:24:45,619 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:24:45,993 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:24:00', 'open_price': 487.5350036621094, 'close_price': 487.5350036621094, 'high_price': 487.5350036621094, 'low_price': 487.5350036621094, 'volume': 0}
+2024-10-08 18:24:45,997 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:24:00', 'open_price': 46.13999938964844, 'close_price': 46.13999938964844, 'high_price': 46.13999938964844, 'low_price': 46.13999938964844, 'volume': 0}
+2024-10-08 18:24:45,999 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:24:00', 'open_price': 571.7700805664062, 'close_price': 571.7700805664062, 'high_price': 571.7700805664062, 'low_price': 571.7700805664062, 'volume': 0}
+2024-10-08 18:24:46,008 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:24:46,041 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:24:46,078 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:24:46,079 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:25:46,141 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:25:46,143 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:25:46,144 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:25:46,538 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:25:00', 'open_price': 487.5498962402344, 'close_price': 487.5498962402344, 'high_price': 487.5498962402344, 'low_price': 487.5498962402344, 'volume': 0}
+2024-10-08 18:25:46,541 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:25:00', 'open_price': 571.75, 'close_price': 571.75, 'high_price': 571.75, 'low_price': 571.75, 'volume': 0}
+2024-10-08 18:25:46,551 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:25:00', 'open_price': 46.1150016784668, 'close_price': 46.1150016784668, 'high_price': 46.1150016784668, 'low_price': 46.1150016784668, 'volume': 0}
+2024-10-08 18:25:46,559 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:25:46,586 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:25:46,625 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:25:46,626 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:26:46,688 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:26:46,689 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:26:46,693 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:26:46,972 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:26:00', 'open_price': 487.5799865722656, 'close_price': 487.5799865722656, 'high_price': 487.5799865722656, 'low_price': 487.5799865722656, 'volume': 0}
+2024-10-08 18:26:46,993 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:26:00', 'open_price': 571.8150024414062, 'close_price': 571.8150024414062, 'high_price': 571.8150024414062, 'low_price': 571.8150024414062, 'volume': 0}
+2024-10-08 18:26:47,007 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:26:00', 'open_price': 46.11000061035156, 'close_price': 46.11000061035156, 'high_price': 46.11000061035156, 'low_price': 46.11000061035156, 'volume': 0}
+2024-10-08 18:26:47,014 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:26:47,045 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:26:47,093 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:26:47,097 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:27:47,159 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:27:47,160 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:27:47,161 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:27:47,493 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:27:00', 'open_price': 487.80999755859375, 'close_price': 487.80999755859375, 'high_price': 487.80999755859375, 'low_price': 487.80999755859375, 'volume': 0}
+2024-10-08 18:27:47,501 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:27:00', 'open_price': 572.0599975585938, 'close_price': 572.0599975585938, 'high_price': 572.0599975585938, 'low_price': 572.0599975585938, 'volume': 0}
+2024-10-08 18:27:47,510 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:27:47,540 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:27:47,693 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:27:00', 'open_price': 46.130001068115234, 'close_price': 46.130001068115234, 'high_price': 46.130001068115234, 'low_price': 46.130001068115234, 'volume': 0}
+2024-10-08 18:27:47,707 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:27:47,708 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:28:47,771 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:28:47,773 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:28:47,777 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:28:48,087 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:28:00', 'open_price': 46.14500045776367, 'close_price': 46.14500045776367, 'high_price': 46.14500045776367, 'low_price': 46.14500045776367, 'volume': 0}
+2024-10-08 18:28:48,093 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:28:00', 'open_price': 487.7799987792969, 'close_price': 487.7799987792969, 'high_price': 487.7799987792969, 'low_price': 487.7799987792969, 'volume': 0}
+2024-10-08 18:28:48,100 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:28:00', 'open_price': 572.0650024414062, 'close_price': 572.0650024414062, 'high_price': 572.0650024414062, 'low_price': 572.0650024414062, 'volume': 0}
+2024-10-08 18:28:48,109 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:28:48,142 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:28:48,179 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:28:48,180 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:29:48,234 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:29:48,236 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:29:48,239 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:29:48,511 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:29:00', 'open_price': 572.010009765625, 'close_price': 572.010009765625, 'high_price': 572.010009765625, 'low_price': 572.010009765625, 'volume': 0}
+2024-10-08 18:29:48,536 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:29:00', 'open_price': 487.7699890136719, 'close_price': 487.7699890136719, 'high_price': 487.7699890136719, 'low_price': 487.7699890136719, 'volume': 0}
+2024-10-08 18:29:48,542 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:29:00', 'open_price': 46.154998779296875, 'close_price': 46.154998779296875, 'high_price': 46.154998779296875, 'low_price': 46.154998779296875, 'volume': 0}
+2024-10-08 18:29:48,542 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:29:48,573 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:29:48,608 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:29:48,609 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:30:48,670 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:30:48,670 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:30:48,670 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:30:48,831 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:30:00', 'open_price': 572.02001953125, 'close_price': 572.02001953125, 'high_price': 572.02001953125, 'low_price': 572.02001953125, 'volume': 0}
+2024-10-08 18:30:48,855 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:30:00', 'open_price': 487.8399963378906, 'close_price': 487.8399963378906, 'high_price': 487.8399963378906, 'low_price': 487.8399963378906, 'volume': 0}
+2024-10-08 18:30:48,858 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:30:48,889 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:30:48,912 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:30:00', 'open_price': 46.18000030517578, 'close_price': 46.18000030517578, 'high_price': 46.18000030517578, 'low_price': 46.18000030517578, 'volume': 0}
+2024-10-08 18:30:48,920 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:30:48,921 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:31:48,982 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:31:48,982 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:31:48,982 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:31:49,263 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:31:00', 'open_price': 46.165000915527344, 'close_price': 46.165000915527344, 'high_price': 46.165000915527344, 'low_price': 46.165000915527344, 'volume': 0}
+2024-10-08 18:31:49,268 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:31:00', 'open_price': 571.9149780273438, 'close_price': 571.9149780273438, 'high_price': 571.9149780273438, 'low_price': 571.9149780273438, 'volume': 0}
+2024-10-08 18:31:49,271 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:31:00', 'open_price': 487.6700134277344, 'close_price': 487.6700134277344, 'high_price': 487.6700134277344, 'low_price': 487.6700134277344, 'volume': 0}
+2024-10-08 18:31:49,276 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:31:49,307 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:31:49,326 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:31:49,326 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:32:49,388 [INFO] D√©but de la r√©cup√©ration des donn√©es pour SPY
+2024-10-08 18:32:49,389 [INFO] D√©but de la r√©cup√©ration des donn√©es pour QQQ
+2024-10-08 18:32:49,392 [INFO] D√©but de la r√©cup√©ration des donn√©es pour EEM
+2024-10-08 18:32:49,699 [INFO] Donn√©es r√©cup√©r√©es pour SPY: {'ticker': 'SPY', 'date': '2024-10-08', 'datetime': '2024-10-08 12:32:00', 'open_price': 571.9249877929688, 'close_price': 571.9249877929688, 'high_price': 571.9249877929688, 'low_price': 571.9249877929688, 'volume': 0}
+2024-10-08 18:32:49,708 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:32:49,914 [INFO] Donn√©es r√©cup√©r√©es pour QQQ: {'ticker': 'QQQ', 'date': '2024-10-08', 'datetime': '2024-10-08 12:32:00', 'open_price': 487.6300048828125, 'close_price': 487.6300048828125, 'high_price': 487.6300048828125, 'low_price': 487.6300048828125, 'volume': 0}
+2024-10-08 18:32:49,925 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:32:50,356 [INFO] Donn√©es r√©cup√©r√©es pour EEM: {'ticker': 'EEM', 'date': '2024-10-08', 'datetime': '2024-10-08 12:32:00', 'open_price': 46.150001525878906, 'close_price': 46.150001525878906, 'high_price': 46.150001525878906, 'low_price': 46.150001525878906, 'volume': 0}
+2024-10-08 18:32:50,372 [INFO] Donn√©es sauvegard√©es dans le fichier real_time_data_20241008.json
+2024-10-08 18:32:50,373 [INFO] Attente de 60 secondes avant la prochaine r√©cup√©ration
+2024-10-08 18:33:05,484 [INFO] Arr√™t du programme par l'utilisateur
